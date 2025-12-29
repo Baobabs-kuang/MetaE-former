@@ -12,4 +12,6 @@ In `pre-training.rar`: Files are named `dataxxx.mat`, where xxx corresponds to t
 In `fine-tuning.rar`: Files are named in the format `continuous_x_0.00_y_64.00`, where:\
 **continuous** indicates a non-binarized meta-atom, while **discrete** indicates a binarized one.\
 **0.00** and **64.00** represent the coordinates (in μm) of the meta-atom's top-left vertex within the overall metasurface.
-！[]()
+![Some examples in the pre-training dataset.](https://github.com/Baobabs-kuang/MetaE-former/blob/main/metalens_pt.tif.jpg?raw=true)
+![Some examples in the fine-tuning dataset.](https://github.com/Baobabs-kuang/MetaE-former/blob/main/metalens_ft_c.jpg?raw=true)
+![Some examples in the pre-trained dataset.](https://github.com/Baobabs-kuang/MetaE-former/blob/main/metalens_ft_d.jpg?raw=true)
